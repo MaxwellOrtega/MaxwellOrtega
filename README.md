@@ -1,0 +1,4 @@
+- Hi, I’m @MaxwellOrtega
+- I’m interested in backend software development
+- I’m currently looking for software development/ software engineering internships
+- How to reach me ortegamaxwell@gmail.com
